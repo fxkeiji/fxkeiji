@@ -1,0 +1,45 @@
+- **ISO 9001:2015**
+  - **Introducción**
+    - Definición: Criterios para un sistema de gestión de calidad
+    - Certificable: Única en la familia ISO 9000
+    - Enfoque: Procesos más que productos
+    - Aplicabilidad: Organizaciones de todos los tamaños y sectores
+    - Finalidad: Mejorar satisfacción del cliente y desempeño
+  - **Desarrollo: Sistema de Gestión de Calidad (SGC)**
+    - Definición: Marco estructurado y documentado
+    - Finalidad: Satisfacción consistente y mejora continua
+    - Componentes clave:
+      - Enfoque al cliente
+      - Enfoque basado en procesos
+      - Mejora continua
+      - Toma de decisiones basada en la evidencia
+      - Gestión de las relaciones
+      - Pensamiento basado en riesgos
+      - Documentación flexible
+  - **Propósito del SGC**
+    - Satisfacción del cliente: Cumplir y superar expectativas
+    - Mejora Continua: Optimizar eficiencia y eficacia
+    - Cumplimiento de Requisitos: Legal, reglamentario y otros
+  - **Ventajas de un SGC certificado**
+    - Reconocimiento Internacional
+    - Aumento de la Confianza del Cliente
+    - Mejora en Procesos Internos
+    - Base para Decisiones Informativas
+    - Adaptabilidad ante Cambios
+    - Relaciones con Proveedores
+  - **Objetivos del documento SGC**
+    - Definición Clara de Procedimientos
+    - Identificación de Responsabilidades
+    - Establecimiento de Criterios de Medición
+    - Comunicación Efectiva
+    - Base para la Capacitación
+    - Evidencia para Auditorías
+  - **Secciones clave del SGC**
+    - Alcance del SGC
+    - Referencia normativa
+    - Términos y definiciones
+    - Contexto de la organización
+    - Liderazgo
+    - Planificación
+    - Apoyo
+
